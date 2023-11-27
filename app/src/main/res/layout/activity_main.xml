@@ -13,38 +13,38 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:textSize="18sp"
-        android:textStyle="bold"
-        android:text="Kutipan Anime Random" />
+        android:text="Hello World" />
 
-    <Button
-        android:id="@+id/btnGenerate"
-        android:layout_margin="20px"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Generate Kutipan"
-        android:layout_gravity="center_horizontal"/>
+<!--    <Button-->
+<!--        android:id="@+id/btnGenerate"-->
+<!--        android:layout_margin="20px"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Generate Kutipan"-->
+<!--        android:layout_gravity="center_horizontal"/>-->
 
-    <TextView
-        android:id="@+id/tvChar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text=""
-        android:layout_marginBottom="5px"
-        android:textSize="18sp"/>
+<!--    <TextView-->
+<!--        android:id="@+id/tvChar"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text=""-->
+<!--        android:layout_marginBottom="5px"-->
+<!--        android:textSize="18sp"/>-->
 
-    <TextView
-        android:id="@+id/tvAnime"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text=""
-        android:layout_marginBottom="5px"
-        android:textSize="18sp"/>
+<!--    <TextView-->
+<!--        android:id="@+id/tvAnime"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text=""-->
+<!--        android:layout_marginBottom="5px"-->
+<!--        android:textSize="18sp"/>-->
 
-    <TextView
-        android:id="@+id/tvQuote"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text=""
-        android:layout_marginBottom="5px"
-        android:textSize="18sp"/>
+<!--    <TextView-->
+<!--        android:id="@+id/tvQuote"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text=""-->
+<!--        android:layout_marginBottom="5px"-->
+<!--        android:textSize="18sp"/>-->
+
 </LinearLayout>
